@@ -1,0 +1,7 @@
+{
+  "name": "HtmlLiveIA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
