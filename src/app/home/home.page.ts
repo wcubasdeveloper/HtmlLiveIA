@@ -18,7 +18,7 @@ export class HomePage {
   isFullscreen: boolean = false;
 
   private aceEditorInstance: ace.Ace.Editor | undefined;
-  private openAI_API_KEY = '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'; // 🔥 PON TU API KEY DE OPENAI AQUÍ
+  private openAI_API_KEY = ''; // 🔥 PON TU API KEY DE OPENAI AQUÍ
 
 //   defaultHtml: string = `
 // <!DOCTYPE html>
