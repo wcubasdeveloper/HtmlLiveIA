@@ -25,3 +25,33 @@
 #container a {
   text-decoration: none;
 }
+
+.barra-sugerencia {
+ 
+  background: #eeeeee;
+  padding: 12px 20px;
+  font-size: 16px;
+  font-family: monospace;
+  border-top: 1px solid #ccc;
+  text-align: center;
+  color: #333;
+  z-index: 9999;
+  cursor: pointer;
+  user-select: none;
+}
+// .barra-sugerencia {
+//   position: fixed;
+//   bottom: 0;
+//   left: 0;
+//   right: 0;
+//   background: #eeeeee;
+//   padding: 12px 20px;
+//   font-size: 16px;
+//   font-family: monospace;
+//   border-top: 1px solid #ccc;
+//   text-align: center;
+//   color: #333;
+//   z-index: 9999;
+//   cursor: pointer;
+//   user-select: none;
+// }
